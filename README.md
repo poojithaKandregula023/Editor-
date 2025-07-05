@@ -38,4 +38,5 @@ A **Collaborative Document Editor** is a real-time, multi-user text editing tool
 | **Differential Synchronization** | Efficiently syncs large documents |
 
 
-![Image](https://github.com/user-attachments/assets/9e100f08-2eae-41e7-9143-f5b58c1c2463)
+
+![Image](https://github.com/user-attachments/assets/c68272d4-0497-4fbc-a89f-628e88371808)
