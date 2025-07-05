@@ -36,3 +36,6 @@ A **Collaborative Document Editor** is a real-time, multi-user text editing tool
 | **Quill.js / ProseMirror / Tiptap** | Rich-text editing frameworks |
 | **Service Workers** | Enables offline functionality |
 | **Differential Synchronization** | Efficiently syncs large documents |
+
+
+![Image](https://github.com/user-attachments/assets/9e100f08-2eae-41e7-9143-f5b58c1c2463)
